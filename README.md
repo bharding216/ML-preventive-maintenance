@@ -5,6 +5,15 @@ A town's pump station has equipment that is failing. When equipment fails, the e
 
 Therefore, in order to minimize the overall process downtime, the maintenance supervisor would like to proactively address system issues before they bring down the entire pump station.
 
+Machine learning is a perfect solution for this problem because:
+<ol>
+  <li>There are complex patterns and non-linear relationships,</li>
+  <li>There is a large amount of labeled data,</li>
+  <li>There is high dimensionality,</li>
+  <li>The environment is susceptible to changes over time, and</li>
+  <li>This is a classification task.</li>
+</ol>
+
 Overall steps:
 <ul>
 <li>Data Engineering & Exploratory Data Analysis</li>
